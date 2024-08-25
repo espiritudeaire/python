@@ -104,7 +104,7 @@ def main():
     1. Ingresar nuevo paciente
     2. Buscar y ver Paciente
     3. Ver número total de pacientes
-    4: Salir
+    4: Salir 
     
     Ingrese el número: """
     
